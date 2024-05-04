@@ -24,7 +24,7 @@ plt.figure(figsize=(10, 8))
 
 plt.subplot(2, 2, 1)
 plt.plot(x, y)
-plt.title('Plottttttt')
+plt.title('Plot')
 plt.xlabel("X")
 plt.ylabel("Y")
 
