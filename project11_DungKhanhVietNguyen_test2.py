@@ -1,5 +1,6 @@
 import numpy as np
 from numpy.linalg import norm, det, inv, cond, matrix_rank
+import scipy.linalg
 
 # from scipy.linalg import
 
